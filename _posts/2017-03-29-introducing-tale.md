@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Introducing Tale"
-author: "Chester"
+author: "Brian MacGillvray"
 comments: true
 tags: Tale
 ---
